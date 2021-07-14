@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "MDv+R8SosmR8urGb+3+VmP2us2l28+4QJXaLsC6a+k0bAm9ujV3bSUOAECpFkU6WMBRWR2JijuF0Jr2jrXKv8w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Mark\\Source\\Repos\\MallMa\\Api-Infrastructure-Traffic-Simulator\\InfrastructureTestingApi\\InfrastructureTestingApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Das Paket \"Swashbuckle.AspNetCore\" wurde nicht gefunden. Es sind keine Pakete mit dieser ID in folgenden Quellen vorhanden: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Das Paket \"Microsoft.VisualStudio.Azure.Containers.Tools.Targets\" wurde nicht gefunden. Es sind keine Pakete mit dieser ID in folgenden Quellen vorhanden: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

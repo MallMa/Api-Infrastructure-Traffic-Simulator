@@ -5,7 +5,7 @@ Contains DataProvider, API and Monitoring and Testing UI
       COMMING SOON!
       
   API:
-      COMMING SOON!
+      IN DEVELOPMENT
       
   Monitoring and Testing UI:
       COMMING SOON!
